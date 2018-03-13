@@ -1,4 +1,4 @@
-package in.gsrathoreniks.mvp;
+package in.gsrathoreniks.mvp.Data;
 
 import android.content.Context;
 import android.content.SharedPreferences;

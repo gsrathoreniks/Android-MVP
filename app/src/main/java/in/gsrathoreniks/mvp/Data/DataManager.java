@@ -1,4 +1,4 @@
-package in.gsrathoreniks.mvp;
+package in.gsrathoreniks.mvp.Data;
 
 /**
  * Created by gajendrasinghrathore on 13/03/18.
