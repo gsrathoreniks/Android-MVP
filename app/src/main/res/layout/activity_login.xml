@@ -5,5 +5,21 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="in.gsrathoreniks.mvp.ui.login.LoginActivity">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="email"
+        android:id="@+id/editTextEmail"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textVisiblePassword"
+        android:hint="password"
+        android:id="@+id/editTextPassword"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button"
+        android:text="login"/>
 </android.support.constraint.ConstraintLayout>

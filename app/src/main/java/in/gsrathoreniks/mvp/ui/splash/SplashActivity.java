@@ -3,10 +3,11 @@ package in.gsrathoreniks.mvp.ui.splash;
 import android.content.Context;
 import android.content.Intent;
 import android.support.annotation.Nullable;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import in.gsrathoreniks.mvp.MainActivity;
+import in.gsrathoreniks.mvp.MvpApp;
+import in.gsrathoreniks.mvp.ui.login.LoginActivity;
+import in.gsrathoreniks.mvp.ui.main.MainActivity;
 import in.gsrathoreniks.mvp.R;
 import in.gsrathoreniks.mvp.data.DataManager;
 import in.gsrathoreniks.mvp.ui.base.BaseActivity;
